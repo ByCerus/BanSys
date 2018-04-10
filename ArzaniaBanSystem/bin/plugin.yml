@@ -1,0 +1,12 @@
+name: ArzaniaBanSys
+author: ByCerus
+main: eu.arzania.ban.BanSystem
+version: 1.0
+
+commands:
+  ban:
+  kick:
+  mute:
+  unban:
+  unmute:
+  checkid:
